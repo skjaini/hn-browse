@@ -23,5 +23,41 @@ Before you can run this web app locally, make sure you have the following instal
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/skjaini/hn-browse.git
+
+2. Navigate into the project directory:
+   ```
+   cd hn-browse
+
+3. Install dependencies:
+   ```
+   npm install
+
+### Running the Application
+
+1. Once the dependencies are installed, you can start the development server:
+     ```
+     npm start
+
+### Building for Production
+
+1. To build the app for production:
+     ```
+     npm run build
+   
+This will create a build folder with the optimized production version of the app.
+
+### Future Improvements
+- Add functionality to search or filter articles by keyword.
+- Support for viewing article details beyond the screenshot.
+- Mobile-responsive design.
+
+### Contributing
+Contributions are welcome! If you'd like to report an issue or request a feature, feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
