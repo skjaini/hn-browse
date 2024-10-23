@@ -1,4 +1,4 @@
-# Hacker News Browse
+# Hacker News Browser
 
 Hacker News Browse is a simple web application that allows users to view top Hacker News articles as screenshots. This project provides an efficient way to browse popular articles without needing to open individual links, streamlining the reading experience.
 
